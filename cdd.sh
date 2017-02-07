@@ -2,7 +2,7 @@
 
 # bash script for creating path shortcuts in terminal
 # Copyright (C) 2017 Lars Andre Landås <landas@gmail.com>
-# Distributed under the GNU General Public License, version 2.0.
+# Distributed under the GNU General Public License, version 3.0.
 
 # For usage type cdd in terminal after you have sourced this file
 # Includes auto-complete support
