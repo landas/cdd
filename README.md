@@ -10,6 +10,11 @@ How?
 
 2) Type: cdd
 
+Fix for mac
+-----------
+
+edit line stating with "sed -i ..." to "sed -i '' ..."
+
 Config
 ------
 
@@ -18,14 +23,14 @@ Shortcuts are stored in ~/.cdd
 Usage
 -----
 
-cdd add <shortcut> <path>
-cdd remove <shortcut>
-cdd list [-v]
+cdd add <shortcut> <path>  
+cdd remove <shortcut>  
+cdd list [-v]  
 cdd <shortcut>
 
 Contributing
 ------------
-I'm happy if someone wants to improve this script.
+I'm happy if someone wants to improve this script.  
 E-mail me at landas@gmail.com
 
 License
