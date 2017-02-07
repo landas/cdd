@@ -10,6 +10,8 @@ How?
 
 2) Type: cdd
 
+[![asciicast](https://asciinema.org/a/102266.png)](https://asciinema.org/a/102266)
+
 Fix for mac
 -----------
 
